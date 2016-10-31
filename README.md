@@ -6,8 +6,19 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 <h2>Questions For Investigation</h2>
 
+[Dataset: stroopdata.csv](stroopdata.csv)
+<p>
+
 <h3> 1. What is our independent variable? What is our dependent variable? </h3>
 
 <b>Independent Variable:</b> Congruent and incongruent words
 <br>
-<b>Dependent Variable:</b> Time to name the ink colors in list
+<b>Dependent Variable:</b> Time to name the color
+
+<p>
+
+<h3> 2. What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform? Justify your choices.</h3>
+
+
+
+
