@@ -19,16 +19,16 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 <h3> 2. What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform? Justify your choices.</h3>
 
-H_0 (Null Hypothesis): 
+Ho (Null Hypothesis): 
 
-H_A (Alternative Hypothesis)
+Ha (Alternative Hypothesis):
 
 
 
 
 
 <p><p>
-Sources: 
+Sources: http://www.statstutor.ac.uk/resources/uploaded/paired-t-test.pdf
 
 
 
