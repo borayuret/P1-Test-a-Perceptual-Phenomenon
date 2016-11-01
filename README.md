@@ -30,7 +30,7 @@ Ha (Alternative Hypothesis):
 <p><p>
 Sources: 
 <br>
-Udacity Data Analyst Nanodegree Program Statistic Lessons 
+<a href="https://classroom.udacity.com/nanodegrees/nd002">Udacity Data Analyst Nanodegree Program Statistics Lessons</a> 
 <br>
 http://www.statstutor.ac.uk/resources/uploaded/paired-t-test.pdf
 
