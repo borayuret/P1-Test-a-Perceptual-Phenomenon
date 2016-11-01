@@ -19,9 +19,9 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 <h3> 2. What is an appropriate set of hypotheses for this task? What kind of statistical test do you expect to perform? Justify your choices.</h3>
 
-Ho (Null Hypothesis): 
+<b>Ho (Null Hypothesis):</b> The time required to name the color for congruent word is equal to the time required to name the color of incongruent word. 
 
-Ha (Alternative Hypothesis):
+<b>Ha (Alternative Hypothesis):</b> The time required to name the color for congruent word is not equal to the time required to name the color of incongruent word. 
 
 
 
