@@ -28,7 +28,10 @@ Ha (Alternative Hypothesis):
 
 
 <p><p>
-Sources: http://www.statstutor.ac.uk/resources/uploaded/paired-t-test.pdf
+Sources: 
+Udacity Data Analyst Nanodegree Program Statistic Lessons 
+<br>
+http://www.statstutor.ac.uk/resources/uploaded/paired-t-test.pdf
 
 
 
