@@ -34,7 +34,7 @@ Sources:
 <br>
 http://www.statstutor.ac.uk/resources/uploaded/paired-t-test.pdf
 <br>
-https://www.amazon.com/Essentials-Business-Statistics-Bruce-Bowerman/dp/0078020530 (solved Excel Exercises)
+https://www.amazon.com/Essentials-Business-Statistics-Bruce-Bowerman/dp/0078020530
 
 
 
