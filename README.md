@@ -23,6 +23,17 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 <b>Ha (Alternative Hypothesis):</b> The time required to name the color for congruent word is not equal to the time required to name the color of incongruent word. 
 
+<p>
+
+<b>I will use a Paired T-Test because: </b> <br>
+ &nbsp; &nbsp; &nbsp; - i don't know the populations standard deviation <br>
+ &nbsp; &nbsp; &nbsp; - i have a limited sample (n < 30) <br>
+ &nbsp; &nbsp; &nbsp; - data is derived from subjects who have been measured at two time points (each individual has two measurements) <br>
+ 
+<p>
+
+<h3>3. Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency and at least one measure of variability.</h3>
+
 
 
 
