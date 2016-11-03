@@ -34,6 +34,49 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 <h3>3. Report some descriptive statistics regarding this dataset. Include at least one measure of central tendency and at least one measure of variability.</h3>
 
+<center>
+<table>
+<tr>
+<th></th>
+<th>Congruent</th>
+<th>Incongruent</th>
+</tr>
+<tr>
+<td>Mean</td>
+<td>14.05</td>
+<td>22.02</td>
+</tr>
+
+<tr>
+<td>Median</td>
+<td>14.36</td>
+<td>21.02</td>
+</tr>
+
+<tr>
+<td>Variance</td>
+<td>12.67</td>
+<td>23.01</td>
+</tr>
+
+<tr>
+<td>St. Dev.</td>
+<td>3.56</td>
+<td>4.80</td>
+</tr>
+
+
+
+</table>
+</center>
+
+<p>
+
+
+<h3>
+4. Provide one or two visualizations that show the distribution of the sample data. Write one or two sentences noting what you observe about the plot or plots.
+</h3>
+
 
 
 
