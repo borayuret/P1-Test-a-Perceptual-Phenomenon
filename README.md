@@ -108,7 +108,7 @@ It is obvious on the graphs that reading incongruent words takes more time than 
 5. Now, perform the statistical test and report your results. What is your confidence level and your critical statistic value? Do you reject the null hypothesis or fail to reject it? Come to a conclusion in terms of the experiment task. Did the results match up with your expectations?
 </h3>
 
- Sigma 
+ \Sigma 
 
 <p><p>
 Sources: 
