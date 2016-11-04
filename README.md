@@ -65,6 +65,11 @@ In a Stroop task, participants are presented with a list of words, with each wor
 <td>4.80</td>
 </tr>
 
+<tr>
+<td>St. Err.</td>
+<td>0.73</td>
+<td>0.98</td>
+</tr>
 
 
 </table>
