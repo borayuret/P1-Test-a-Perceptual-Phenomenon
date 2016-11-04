@@ -115,7 +115,7 @@ Sources:
 <br>
 <a href="https://classroom.udacity.com/nanodegrees/nd002">Udacity Data Analyst Nanodegree Program Statistics Lessons</a> 
 <br>
-http://www.statstutor.ac.uk/resources/uploaded/paired-t-test.pdf
+http://www.statisticslectures.com/topics/dependentsamplest/
 <br>
 https://www.amazon.com/Essentials-Business-Statistics-Bruce-Bowerman/dp/0078020530
 
