@@ -26,7 +26,7 @@ In a Stroop task, participants are presented with a list of words, with each wor
 <p>
 
 <b>I will use a Dependent T-Test (Paired T-Test) because:  </b> <br>
- &nbsp; &nbsp; &nbsp; - i want to compare the means of two related groups to determine whether there is a statistically significant difference between these means: <br>
+ &nbsp; &nbsp; &nbsp; - i want to compare the means of two related groups to determine whether there is a statistically significant difference between these means <br>
  &nbsp; &nbsp; &nbsp; - i don't know the populations standard deviation <br>
  &nbsp; &nbsp; &nbsp; - i have a limited sample (n < 30) <br>
  &nbsp; &nbsp; &nbsp; - data is derived from subjects who have been measured at two time points (each individual has two measurements) <br>
