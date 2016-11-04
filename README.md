@@ -123,7 +123,7 @@ Steps: <br>
 
 2. State Alpha <br>
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=%20%5Calpha%20%20%3D%200.05&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" \alpha  = 0.05" width="75" height="15" />
+<img src="http://www.sciweavers.org/tex2img.php?eq=%20%5Calpha%20%3D%200.05&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0" align="center" border="0" alt=" \alpha = 0.05" width="75" height="15" />
 <br>
 
 3. Calculate Degrees of Freedom <br>
