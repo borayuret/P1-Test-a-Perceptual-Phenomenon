@@ -128,6 +128,8 @@ Steps: <br>
 
 3. Calculate Degrees of Freedom <br>
 
+Degrees of freedom(df): N - 1 = 24 -1 = 23
+
 4. State Decision Rule <br>
 
 5. Calculate Test Statistic <br>
