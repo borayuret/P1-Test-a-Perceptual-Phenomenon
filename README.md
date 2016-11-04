@@ -81,8 +81,12 @@ In a Stroop task, participants are presented with a list of words, with each wor
 <table>
 
 <tr>
-<td>14.05</td>
-<td>22.02</td>
+<td>
+   <img src="graph1.JPG" alt="graph1">
+</td>
+<td>
+   <img src="graph2.JPG" alt="graph1">
+</td>
 </tr>
 
 
