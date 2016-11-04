@@ -109,7 +109,25 @@ It is obvious on the graphs that reading incongruent words takes more time than 
 5. Now, perform the statistical test and report your results. What is your confidence level and your critical statistic value? Do you reject the null hypothesis or fail to reject it? Come to a conclusion in terms of the experiment task. Did the results match up with your expectations?
 </h3>
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=%20%5Coverline%7Ba%7D%20&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt=" \overline{a} " width="15" height="15" />
+I will perform a dependent sample t-test.<br>
+
+Steps: <br>
+
+1. Define Null and Alternative Hypotheses <br>
+
+2. State Alpha <br>
+
+3. Calculate Degrees of Freedom <br>
+
+4. State Decision Rule <br>
+
+5. Calculate Test Statistic <br>
+
+6. State Results <br>
+
+7. State Conclusion <br>
+
+
 
 <p><p>
 Sources: 
