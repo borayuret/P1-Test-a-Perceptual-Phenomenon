@@ -98,6 +98,8 @@ In a Stroop task, participants are presented with a list of words, with each wor
 
 </table>
 </center>
+<br>
+It is obvious on the graphs that reading incongruent words takes more time than reading congruent words, at every point (for every person in the sample). 
 
 
 
