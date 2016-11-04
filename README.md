@@ -115,10 +115,10 @@ Steps: <br>
  
 1. Define Null and Alternative Hypotheses <br>
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=Ho%3A%20%20%5Cmu%5C_congruent%20%3D%20%20%5Cmu%5C_incongruent&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Ho:  \mu\_congruent =  \mu\_incongruent" width="299" height="19" /> <br>
+<img src="http://www.sciweavers.org/tex2img.php?eq=Ho%3A%20%20%5Cmu%5C_congruent%20%3D%20%20%5Cmu%5C_incongruent&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0" align="center" border="0" alt="Ho:  \mu\_congruent =  \mu\_incongruent" width="299" height="19" /> <br>
 <br>
 
-<img src="http://www.sciweavers.org/tex2img.php?eq=Ha%3A%20%20%5Cmu%5C_congruent%20%20%5Cneq%20%20%20%5Cmu%5C_incongruent&bc=White&fc=Black&im=jpg&fs=12&ff=arev&edit=0" align="center" border="0" alt="Ha:  \mu\_congruent  \neq   \mu\_incongruent" width="299" height="19" /> <br>
+<img src="http://www.sciweavers.org/tex2img.php?eq=Ha%3A%20%20%5Cmu%5C_congruent%20%20%5Cneq%20%20%20%5Cmu%5C_incongruent&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0" align="center" border="0" alt="Ha:  \mu\_congruent  \neq   \mu\_incongruent" width="299" height="19" /> <br>
 <br>
 
 2. State Alpha <br>
