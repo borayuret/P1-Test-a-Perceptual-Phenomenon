@@ -165,6 +165,16 @@ The time required to name incongruent colors is significantly more than the time
 6. Optional: What do you think is responsible for the effects observed? Can you think of an alternative or similar task that would result in a similar effect? Some research about the problem will be helpful for thinking about these two questions!
 </h3>
 
+I think, for the brain, reading a word is faster than determining the color. So there is an interference in the Stroop test. 
+
+As an alternative task, i can give the confuse your legs example (http://www.sciencemadesimple.co.uk/activity-blogs/confuse_your_legs)
+
+Lift your right foot a few inches from the floor and then begin to move it in a clockwise direction. While you’re doing this, use a finger your right index finger to draw a number 6 in the air. Your foot will turn in an anticlockwise direction and there’s nothing you can do about it!
+
+The left side of your brain, which controls the right side of your body, is responsible for rhythm and timing. The left side of your brain cannot deal with operating two opposite movements at the same time and so it combines them into a single motion.
+
+Try this with your right foot and left hand and you should have no problem!
+
 
 <p><p>
 Sources: 
@@ -174,6 +184,8 @@ Sources:
 http://www.statisticslectures.com/topics/dependentsamplest/
 <br>
 https://www.amazon.com/Essentials-Business-Statistics-Bruce-Bowerman/dp/0078020530
+<br>
+http://www.sciencemadesimple.co.uk/activity-blogs/confuse_your_legs
 
 
 
