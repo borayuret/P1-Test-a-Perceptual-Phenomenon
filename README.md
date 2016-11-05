@@ -159,6 +159,12 @@ less than t_critical(-2.0687), so i reject the null hypothesis.
 
 The time required to name incongruent colors is significantly more than the time required to name congruent colors, at 0.05. The result matches up with my expectations and with my own test result. 
 
+<p>
+
+<h3>
+6. Optional: What do you think is responsible for the effects observed? Can you think of an alternative or similar task that would result in a similar effect? Some research about the problem will be helpful for thinking about these two questions!
+</h3>
+
 
 <p><p>
 Sources: 
