@@ -132,9 +132,28 @@ Degrees of freedom(df): N - 1 = 24 -1 = 23
 
 4. State Decision Rule <br>
 
+I found a critical value of 2.0687 using the t-table for a two-tailed test with 23 degrees of freedom and an alpha of 0.05. <br>
+
+t-critical: 2.0687 <br>
+
+Then,  decision rule is rejecting the null hypothesis if t-statistic value is less than -2.0687 or greater than 2.0687.
+
+
+
 5. Calculate Test Statistic <br>
 
+M_d = -7.96 <br>
+
+S_d = 4.86 <br>
+
+t_statistic = -8.02 <br>
+
+
 6. State Results <br>
+
+t_statistic = -8.02 <br>
+
+less than t_critical(-2.0687), so i reject the null hypothesis.
 
 7. State Conclusion <br>
 
