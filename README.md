@@ -113,7 +113,7 @@ I will perform a dependent sample t-test.<br>
 
 Steps: <br>
  
-1. Define Null and Alternative Hypotheses <br>
+1 - Define Null and Alternative Hypotheses <br>
 
 <img src="http://www.sciweavers.org/tex2img.php?eq=Ho%3A%20%20%5Cmu%5C_congruent%20%3D%20%20%5Cmu%5C_incongruent&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0" align="center" border="0" alt="Ho:  \mu\_congruent =  \mu\_incongruent" width="299" height="19" /> <br>
 <br>
@@ -121,16 +121,16 @@ Steps: <br>
 <img src="http://www.sciweavers.org/tex2img.php?eq=Ha%3A%20%20%5Cmu%5C_congruent%20%20%5Cneq%20%20%20%5Cmu%5C_incongruent&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0" align="center" border="0" alt="Ha:  \mu\_congruent  \neq   \mu\_incongruent" width="299" height="19" /> <br>
 <br>
 
-2. State Alpha <br>
+2 - State Alpha <br>
 
 <img src="http://www.sciweavers.org/tex2img.php?eq=%20%5Calpha%20%3D%200.05&bc=White&fc=Black&im=png&fs=12&ff=arev&edit=0" align="center" border="0" alt=" \alpha = 0.05" width="75" height="15" />
 <br>
 
-3. Calculate Degrees of Freedom <br>
+3 - Calculate Degrees of Freedom <br>
 
 Degrees of freedom(df): N - 1 = 24 -1 = 23
 
-4. State Decision Rule <br>
+4 - State Decision Rule <br>
 
 I found a critical value of 2.0687 using the t-table for a two-tailed test with 23 degrees of freedom and an alpha of 0.05. <br>
 
@@ -140,7 +140,7 @@ Then,  decision rule is rejecting the null hypothesis if t-statistic value is le
 
 
 
-5. Calculate Test Statistic <br>
+5 - Calculate Test Statistic <br>
 
 M_d = -7.96 <br>
 
@@ -149,15 +149,15 @@ S_d = 4.86 <br>
 t_statistic = -8.02 <br>
 
 
-6. State Results <br>
+6 - State Results <br>
 
 t_statistic = -8.02 <br>
 
 less than t_critical(-2.0687), so i reject the null hypothesis.
 
-7. State Conclusion <br>
+7 - State Conclusion <br>
 
-
+The time required to name incongruent colors is significantly more than the time required to name congruent colors, at 0.05. The result matches up with my expectations and with my own test result. 
 
 
 <p><p>
