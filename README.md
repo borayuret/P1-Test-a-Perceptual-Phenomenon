@@ -30,10 +30,11 @@ In a Stroop task, participants are presented with a list of words, with each wor
 <p>
 
 <b>I will use a Dependent T-Test (Paired T-Test) because:  </b> <br>
- &nbsp; &nbsp; &nbsp; - i want to compare the means of two related groups to determine whether there is a statistically significant difference between these means <br>
- &nbsp; &nbsp; &nbsp; - i don't know the populations standard deviation <br>
- &nbsp; &nbsp; &nbsp; - i have a limited sample (n < 30) <br>
- &nbsp; &nbsp; &nbsp; - data is derived from subjects who have been measured at two time points (each individual has two measurements) <br>
+
+ &nbsp; &nbsp; &nbsp; - Dependent variable is on a continuous scale <br>
+ &nbsp; &nbsp; &nbsp; - Independent variable consists of two categorical, "related groups" or "matched pairs" <br>
+ &nbsp; &nbsp; &nbsp; - There are no significant outliers in the differences between the two related groups (Random sampling from a defined population) <br>
+ &nbsp; &nbsp; &nbsp; - The distribution of the differences in the dependent variable between the two related groups is approximately normally distributed <br>
  
 <p>
 
@@ -190,6 +191,10 @@ http://www.statisticslectures.com/topics/dependentsamplest/
 https://www.amazon.com/Essentials-Business-Statistics-Bruce-Bowerman/dp/0078020530
 <br>
 http://www.sciencemadesimple.co.uk/activity-blogs/confuse_your_legs
+<br>
+https://statistics.laerd.com/spss-tutorials/dependent-t-test-using-spss-statistics.php
+<br>
+http://www.psychology.emory.edu/clinical/bliwise/Tutorials/TOM/meanstests/assump.htm
 
 
 
