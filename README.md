@@ -163,7 +163,7 @@ less than t_critical(-2.0687), so i reject the null hypothesis.
 
 7 - State Conclusion <br>
 
-The time required to name incongruent colors is significantly more than the time required to name congruent colors, at 0.05. The result matches up with my expectations and with my own test result. 
+There is a significant difference in the mean task completion times between the two conditions, at 0.05. The result matches up with my expectations and with my own test result. 
 
 <p>
 
