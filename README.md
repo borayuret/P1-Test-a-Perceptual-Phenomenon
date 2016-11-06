@@ -25,7 +25,8 @@ In a Stroop task, participants are presented with a list of words, with each wor
 <p>
 <img src="null_hypo.png" align="center" border="0" alt="Ho:  \mu\_congruent =  \mu\_incongruent" width="299" height="19" /> <br>
 
-<img src="alternative_hypo.png" align="center" border="0" alt="Ha:  \mu\_congruent  \neq   \mu\_incongruent" width="299" height="19" />
+<img src="alternative_hypo.png" align="center" border="0" alt="Ha:  \mu\_congruent  \neq   \mu\_incongruent" width="299" height="19" /> <br>
+where <img src="mu.png" /> is the population mean.
 
 <p>
 
